@@ -1,1 +1,5 @@
-this is bipul2
+<<<<<<< HEAD
+this is bipul
+=======
+this is bipul1
+>>>>>>> dev1
